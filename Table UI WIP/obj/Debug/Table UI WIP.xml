@@ -1,0 +1,336 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Table UI WIP
+</name>
+</assembly>
+<members>
+<member name="T:Table_UI_WIP.My.Resources.Resources">
+<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+<member name="P:Table_UI_WIP.My.Resources.Resources.ResourceManager">
+<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member>
+<member name="P:Table_UI_WIP.My.Resources.Resources.Culture">
+<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member>
+<member name="P:Table_UI_WIP.My.Resources.Resources._1200px_Tourism_in_Morocco_svg">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Table_UI_WIP.My.Resources.Resources._1200px_Tourism_in_Morocco1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Table_UI_WIP.My.Resources.Resources._error">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Table_UI_WIP.My.Resources.Resources.cancel">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Table_UI_WIP.My.Resources.Resources.cancel1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Table_UI_WIP.My.Resources.Resources.cancel2">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Table_UI_WIP.My.Resources.Resources.cancel3">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Table_UI_WIP.My.Resources.Resources.cancel4">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Table_UI_WIP.My.Resources.Resources.checkmark">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Table_UI_WIP.My.Resources.Resources.close">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Table_UI_WIP.My.Resources.Resources.edit_icon_icons_com_66118">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Table_UI_WIP.My.Resources.Resources.edit_icon_icons1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Table_UI_WIP.My.Resources.Resources.error2">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Table_UI_WIP.My.Resources.Resources.icons8_activity_history_50">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Table_UI_WIP.My.Resources.Resources.icons8_print_24">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Table_UI_WIP.My.Resources.Resources.info">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Table_UI_WIP.My.Resources.Resources.info2">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Table_UI_WIP.My.Resources.Resources.info21">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Table_UI_WIP.My.Resources.Resources.logo1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Table_UI_WIP.My.Resources.Resources.maroc_tourisime">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Table_UI_WIP.My.Resources.Resources.maroc_tourisime1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Table_UI_WIP.My.Resources.Resources.maroc_tourisime2">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Table_UI_WIP.My.Resources.Resources.reduire">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Table_UI_WIP.My.Resources.Resources.reduire_H">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Table_UI_WIP.My.Resources.Resources.refresh">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Table_UI_WIP.My.Resources.Resources.sarch">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Table_UI_WIP.My.Resources.Resources.stars">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Table_UI_WIP.My.Resources.Resources.success2">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Table_UI_WIP.My.Resources.Resources.warning">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Table_UI_WIP.dboDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Table_UI_WIP.dboDataSet.CatégorieDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Table_UI_WIP.dboDataSet.hot_cat1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Table_UI_WIP.dboDataSet.HotelsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Table_UI_WIP.dboDataSet.ProvincesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Table_UI_WIP.dboDataSet.RégionsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Table_UI_WIP.dboDataSet.TerritoiresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Table_UI_WIP.dboDataSet.CatégorieRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Table_UI_WIP.dboDataSet.hot_cat1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Table_UI_WIP.dboDataSet.HotelsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Table_UI_WIP.dboDataSet.ProvincesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Table_UI_WIP.dboDataSet.RégionsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Table_UI_WIP.dboDataSet.TerritoiresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Table_UI_WIP.dboDataSet.CatégorieRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Table_UI_WIP.dboDataSet.hot_cat1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Table_UI_WIP.dboDataSet.HotelsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Table_UI_WIP.dboDataSet.ProvincesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Table_UI_WIP.dboDataSet.RégionsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Table_UI_WIP.dboDataSet.TerritoiresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Table_UI_WIP.dboDataSetTableAdapters.CatégorieTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Table_UI_WIP.dboDataSetTableAdapters.hot_cat1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Table_UI_WIP.dboDataSetTableAdapters.HotelsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Table_UI_WIP.dboDataSetTableAdapters.ProvincesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Table_UI_WIP.dboDataSetTableAdapters.RégionsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Table_UI_WIP.dboDataSetTableAdapters.TerritoiresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Table_UI_WIP.dboDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Table_UI_WIP.dboDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Table_UI_WIP.dboDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Table_UI_WIP.dboDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Table_UI_WIP.dboDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Table_UI_WIP.dboDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Table_UI_WIP.dboDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Table_UI_WIP.dboDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Table_UI_WIP.dboDataSetTableAdapters.TableAdapterManager.UpdateAll(Table_UI_WIP.dboDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Table_UI_WIP.dboDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Table_UI_WIP.dboDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
