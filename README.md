@@ -1,0 +1,1 @@
+This window app was my final project on the internship for my DTS studies (BAC+2), a hotel management app for the ministry of tourism in Morocco, a local app for employees to manage the hotels around the country in order to add/modify/remove a hotel, also they can manage the stars rating of each hotel depending on some criterias.
